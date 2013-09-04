@@ -1,0 +1,15 @@
+#status {
+    margin-top: 25px;
+}
+
+#add-form {
+    margin-top: 20px;
+}
+
+#add-form input[type='url'] {
+    width: 300px;
+}
+
+.margintop {
+    margin-top: 20px;
+}
